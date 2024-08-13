@@ -20,6 +20,18 @@
   </h2>
 </div>
 
+<div align="center">
+  <h2>
+    Excalibuild work-in-progress notes:
+  <br />
+  </h2>
+  - Note: this is all very much a hack exploration right now.
+  - todo: Add labels for new "script" action to localizations other than en-US.
+  - todo: Everything else.
+</div>
+
+
+
 <br />
 <p align="center">
   <a href="https://github.com/excalidraw/excalidraw/blob/master/LICENSE">
