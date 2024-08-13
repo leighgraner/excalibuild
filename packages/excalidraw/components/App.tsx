@@ -20,6 +20,7 @@ import {
   actionFinalize,
   actionFlipHorizontal,
   actionFlipVertical,
+  actionScript,
   actionGroup,
   actionPasteStyles,
   actionSelectAll,
@@ -10082,6 +10083,8 @@ class App extends React.Component<AppProps, AppState> {
       actionLink,
       actionDuplicateSelection,
       actionToggleElementLock,
+      CONTEXT_MENU_SEPARATOR,
+      actionScript,
       CONTEXT_MENU_SEPARATOR,
       actionDeleteSelected,
     ];

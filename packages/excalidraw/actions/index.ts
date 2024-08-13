@@ -67,6 +67,8 @@ export {
   distributeVertically,
 } from "./actionDistribute";
 
+export { actionScript } from "./actionScript";
+
 export { actionFlipHorizontal, actionFlipVertical } from "./actionFlip";
 
 export {

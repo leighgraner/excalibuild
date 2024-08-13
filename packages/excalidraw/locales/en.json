@@ -1,5 +1,6 @@
 {
   "labels": {
+    "script": "Edit Script",
     "paste": "Paste",
     "pasteAsPlaintext": "Paste as plaintext",
     "pasteCharts": "Paste charts",
@@ -92,6 +93,7 @@
     "ungroup": "Ungroup selection",
     "collaborators": "Collaborators",
     "toggleGrid": "Toggle grid",
+    "Script":"Script",
     "addToLibrary": "Add to library",
     "removeFromLibrary": "Remove from library",
     "libraryLoadingMessage": "Loading library…",

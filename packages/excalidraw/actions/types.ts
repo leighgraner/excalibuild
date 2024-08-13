@@ -52,6 +52,7 @@ export type ActionName =
   | "copyAsSvg"
   | "copyText"
   | "sendBackward"
+  | "script"
   | "bringForward"
   | "sendToBack"
   | "bringToFront"
