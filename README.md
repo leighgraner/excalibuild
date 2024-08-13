@@ -20,7 +20,8 @@
   </h2>
 </div>
 
-<div align="center">
+<div style="color: LightSeaGreen;" align="left">
+
   <h2>
     Excalibuild work-in-progress notes:
   <br />
