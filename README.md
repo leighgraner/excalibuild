@@ -25,9 +25,12 @@
     Excalibuild work-in-progress notes:
   <br />
   </h2>
-  - Note: this is all very much a hack exploration right now.
-  - todo: Add labels for new "script" action to localizations other than en-US.
-  - todo: Everything else.
+  - Note: this is all very much a hack exploration right now. 
+  <br />
+  - todo: Add labels for new "script" action to localizations other than en-US. 
+  <br />
+  - todo: Everything else. 
+  <br />
 </div>
 
 
