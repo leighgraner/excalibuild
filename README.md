@@ -1,3 +1,18 @@
+<div style="color: lightseagreen;" align="left">
+
+  <h2>
+    Excalibuild work-in-progress notes:
+  <br />
+  </h2>
+  - Note: this is all very much a hack exploration right now. 
+  <br />
+  - todo: Add labels for new "script" action to localizations other than en-US. 
+  <br />
+  - todo: Everything else. 
+  <br />
+</div>
+
+
 <a href="https://excalidraw.com/" target="_blank" rel="noopener">
   <picture>
     <source media="(prefers-color-scheme: dark)" alt="Excalidraw" srcset="https://excalidraw.nyc3.cdn.digitaloceanspaces.com/github/excalidraw_github_cover_2_dark.png" />
@@ -19,21 +34,6 @@
   <br />
   </h2>
 </div>
-
-<div style="color: LightSeaGreen;" align="left">
-
-  <h2>
-    Excalibuild work-in-progress notes:
-  <br />
-  </h2>
-  - Note: this is all very much a hack exploration right now. 
-  <br />
-  - todo: Add labels for new "script" action to localizations other than en-US. 
-  <br />
-  - todo: Everything else. 
-  <br />
-</div>
-
 
 
 <br />
